@@ -47,13 +47,6 @@ warning: LF will be replaced by CRLF in src/setupTests.js.
 The file will have its original line endings in your working directory
 
 ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
-$ git statuc
-git: 'statuc' is not a git command. See 'git --help'.
-
-The most similar command is
-        status
-
-ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
 $ git status
 On branch master
 
@@ -303,21 +296,12 @@ $ git commit -m 'newest upload lgcy'
  create mode 100644 src/styles/tailwind.css
 
 ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
-$ git commit
+$ git commit -m "message"
 On branch master
 nothing to commit, working tree clean
 
 ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
 $ git remote add origin 'https://github.com/lgcyofficial/lgcywebsite.git'
-
-ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
-$ git push -u origin web
-error: src refspec web does not match any
-error: failed to push some refs to 'https://github.com/lgcyofficial/lgcywebsite.git'
-
-ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
-$ git remote add origin "https://github.com/lgcyofficial/lgcywebsite.git"
-error: remote origin already exists.
 
 ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
 $ git push -u origin master
