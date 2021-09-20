@@ -1,0 +1,340 @@
+ASUS@LAPTOP-PT41JRMR MINGW64 ~
+$ cd Downloads/lgcy
+
+ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy
+$ pwd
+/c/Users/ASUS/Downloads/lgcy
+
+ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy
+$ git init
+Initialized empty Git repository in C:/Users/ASUS/Downloads/lgcy/.git/
+
+ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
+$ git add .
+warning: LF will be replaced by CRLF in .firebase/hosting.YnVpbGQ.cache.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .firebaserc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in firebase.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/manifest.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/robots.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/App.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/App.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/App.test.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/reportWebVitals.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/setupTests.js.
+The file will have its original line endings in your working directory
+
+ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
+$ git statuc
+git: 'statuc' is not a git command. See 'git --help'.
+
+The most similar command is
+        status
+
+ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   .firebase/hosting.YnVpbGQ.cache
+        new file:   .firebaserc
+        new file:   .gitignore
+        new file:   .vs/ProjectSettings.json
+        new file:   .vs/VSWorkspaceState.json
+        new file:   .vs/lgcy/config/applicationhost.config
+        new file:   .vs/lgcy/v16/.suo
+        new file:   .vs/slnx.sqlite
+        new file:   README.md
+        new file:   firebase.json
+        new file:   package-lock.json
+        new file:   package.json
+        new file:   public/favicon.ico
+        new file:   public/images/avatars/default.png
+        new file:   public/images/avatars/duyenle1312.jpg
+        new file:   public/images/avatars/george.jpg
+        new file:   public/images/avatars/johnny.jpg
+        new file:   public/images/avatars/karl.jpg
+        new file:   public/images/avatars/raphael.jpg
+        new file:   public/images/avatars/s.jobs.jpg
+        new file:   public/images/image5.jpg
+        new file:   public/images/iphone-with-profile.jpg
+        new file:   public/images/users/duyenle1312/1.jpg
+        new file:   public/images/users/duyenle1312/2.jpg
+        new file:   public/images/users/duyenle1312/3.jpg
+        new file:   public/images/users/duyenle1312/4.jpg
+        new file:   public/images/users/duyenle1312/5.jpg
+        new file:   public/images/users/duyenle1312/6.jpg
+        new file:   public/images/users/duyenle1312/7.jpg
+        new file:   public/images/users/george/1.jpg
+        new file:   public/images/users/george/2.jpg
+        new file:   public/images/users/george/3.jpg
+        new file:   public/images/users/george/4.jpg
+        new file:   public/images/users/george/5.jpg
+        new file:   public/images/users/johnny/1.jpg
+        new file:   public/images/users/johnny/2.jpg
+        new file:   public/images/users/johnny/3.jpg
+        new file:   public/images/users/johnny/4.jpg
+        new file:   public/images/users/johnny/5.jpg
+        new file:   public/images/users/logo.png
+        new file:   public/index.html
+        new file:   public/logo192.png
+        new file:   public/logo512.png
+        new file:   public/manifest.json
+        new file:   public/react.ico
+        new file:   public/robots.txt
+        new file:   src/App.css
+        new file:   src/App.js
+        new file:   src/App.test.js
+        new file:   src/Assets/DboWFGKU0AAgDfO.jpg
+        new file:   src/Assets/appstore.png
+        new file:   src/Assets/heliocentric-1280x720.jpg
+        new file:   src/Assets/image1.png
+        new file:   src/Assets/image2.png
+        new file:   src/Pages/Explore.js
+        new file:   src/Pages/Homepage.js
+        new file:   src/Pages/LegalContainer.js
+        new file:   src/Pages/Login.js
+        new file:   src/Pages/Morrison.js
+        new file:   src/Pages/NotFound.js
+        new file:   src/Pages/Profile.js
+        new file:   src/Pages/SignUp.js
+        new file:   src/Pages/Timelines.js
+        new file:   src/Pages/Welcome.js
+        new file:   src/Pages/login_addition.js
+        new file:   src/components/Explore/explore.js
+        new file:   src/components/Explore/post/actions.js
+        new file:   src/components/Explore/post/add-comment.js
+        new file:   src/components/Explore/post/comments.js
+        new file:   src/components/Explore/post/footer.js
+        new file:   src/components/Explore/post/header.js
+        new file:   src/components/Explore/post/image.js
+        new file:   src/components/Explore/post/index.js
+        new file:   src/components/Explore/post/styles.css
+        new file:   src/components/Explore/use-photos.js
+        new file:   src/components/Headerlgcy.js
+        new file:   src/components/grid.js
+        new file:   src/components/header.js
+        new file:   src/components/loader.js
+        new file:   src/components/post/actions.js
+        new file:   src/components/post/add-comment.js
+        new file:   src/components/post/comments.js
+        new file:   src/components/post/footer.js
+        new file:   src/components/post/header.js
+        new file:   src/components/post/image.js
+        new file:   src/components/post/index.js
+        new file:   src/components/profile/header.js
+        new file:   src/components/profile/index.js
+        new file:   src/components/profile/photos.js
+        new file:   src/components/samples.js
+        new file:   src/components/sidebar/index.js
+        new file:   src/components/sidebar/suggested-profile.js
+        new file:   src/components/sidebar/suggestions.js
+        new file:   src/components/sidebar/user.js
+        new file:   src/components/socialmedia.js
+        new file:   src/components/timeline.js
+        new file:   src/components/timelines/header.js
+        new file:   src/components/timelines/index.js
+        new file:   src/components/timelines/photos.js
+        new file:   src/constants/paths.js
+        new file:   src/constants/routes.js
+        new file:   src/context/firebase.js
+        new file:   src/context/logged-in-user.js
+        new file:   src/context/user.js
+        new file:   src/helpers/protected-route.js
+        new file:   src/hooks/use-auth-listener.js
+        new file:   src/hooks/use-photos.js
+        new file:   src/hooks/use-user.js
+        new file:   src/index.css
+        new file:   src/index.js
+        new file:   src/lib/firebase.js
+        new file:   src/logo.svg
+        new file:   src/reportWebVitals.js
+        new file:   src/services/firebase.js
+        new file:   src/setupTests.js
+        new file:   src/styles/app.css
+        new file:   src/styles/tailwind.css
+
+
+ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
+$ git commit -m 'newest upload lgcy'
+[master (root-commit) ad09070] newest upload lgcy
+ 117 files changed, 29233 insertions(+)
+ create mode 100644 .firebase/hosting.YnVpbGQ.cache
+ create mode 100644 .firebaserc
+ create mode 100644 .gitignore
+ create mode 100644 .vs/ProjectSettings.json
+ create mode 100644 .vs/VSWorkspaceState.json
+ create mode 100644 .vs/lgcy/config/applicationhost.config
+ create mode 100644 .vs/lgcy/v16/.suo
+ create mode 100644 .vs/slnx.sqlite
+ create mode 100644 README.md
+ create mode 100644 firebase.json
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 public/favicon.ico
+ create mode 100644 public/images/avatars/default.png
+ create mode 100644 public/images/avatars/duyenle1312.jpg
+ create mode 100644 public/images/avatars/george.jpg
+ create mode 100644 public/images/avatars/johnny.jpg
+ create mode 100644 public/images/avatars/karl.jpg
+ create mode 100644 public/images/avatars/raphael.jpg
+ create mode 100644 public/images/avatars/s.jobs.jpg
+ create mode 100644 public/images/image5.jpg
+ create mode 100644 public/images/iphone-with-profile.jpg
+ create mode 100644 public/images/users/duyenle1312/1.jpg
+ create mode 100644 public/images/users/duyenle1312/2.jpg
+ create mode 100644 public/images/users/duyenle1312/3.jpg
+ create mode 100644 public/images/users/duyenle1312/4.jpg
+ create mode 100644 public/images/users/duyenle1312/5.jpg
+ create mode 100644 public/images/users/duyenle1312/6.jpg
+ create mode 100644 public/images/users/duyenle1312/7.jpg
+ create mode 100644 public/images/users/george/1.jpg
+ create mode 100644 public/images/users/george/2.jpg
+ create mode 100644 public/images/users/george/3.jpg
+ create mode 100644 public/images/users/george/4.jpg
+ create mode 100644 public/images/users/george/5.jpg
+ create mode 100644 public/images/users/johnny/1.jpg
+ create mode 100644 public/images/users/johnny/2.jpg
+ create mode 100644 public/images/users/johnny/3.jpg
+ create mode 100644 public/images/users/johnny/4.jpg
+ create mode 100644 public/images/users/johnny/5.jpg
+ create mode 100644 public/images/users/logo.png
+ create mode 100644 public/index.html
+ create mode 100644 public/logo192.png
+ create mode 100644 public/logo512.png
+ create mode 100644 public/manifest.json
+ create mode 100644 public/react.ico
+ create mode 100644 public/robots.txt
+ create mode 100644 src/App.css
+ create mode 100644 src/App.js
+ create mode 100644 src/App.test.js
+ create mode 100644 src/Assets/DboWFGKU0AAgDfO.jpg
+ create mode 100644 src/Assets/appstore.png
+ create mode 100644 src/Assets/heliocentric-1280x720.jpg
+ create mode 100644 src/Assets/image1.png
+ create mode 100644 src/Assets/image2.png
+ create mode 100644 src/Pages/Explore.js
+ create mode 100644 src/Pages/Homepage.js
+ create mode 100644 src/Pages/LegalContainer.js
+ create mode 100644 src/Pages/Login.js
+ create mode 100644 src/Pages/Morrison.js
+ create mode 100644 src/Pages/NotFound.js
+ create mode 100644 src/Pages/Profile.js
+ create mode 100644 src/Pages/SignUp.js
+ create mode 100644 src/Pages/Timelines.js
+ create mode 100644 src/Pages/Welcome.js
+ create mode 100644 src/Pages/login_addition.js
+ create mode 100644 src/components/Explore/explore.js
+ create mode 100644 src/components/Explore/post/actions.js
+ create mode 100644 src/components/Explore/post/add-comment.js
+ create mode 100644 src/components/Explore/post/comments.js
+ create mode 100644 src/components/Explore/post/footer.js
+ create mode 100644 src/components/Explore/post/header.js
+ create mode 100644 src/components/Explore/post/image.js
+ create mode 100644 src/components/Explore/post/index.js
+ create mode 100644 src/components/Explore/post/styles.css
+ create mode 100644 src/components/Explore/use-photos.js
+ create mode 100644 src/components/Headerlgcy.js
+ create mode 100644 src/components/grid.js
+ create mode 100644 src/components/header.js
+ create mode 100644 src/components/loader.js
+ create mode 100644 src/components/post/actions.js
+ create mode 100644 src/components/post/add-comment.js
+ create mode 100644 src/components/post/comments.js
+ create mode 100644 src/components/post/footer.js
+ create mode 100644 src/components/post/header.js
+ create mode 100644 src/components/post/image.js
+ create mode 100644 src/components/post/index.js
+ create mode 100644 src/components/profile/header.js
+ create mode 100644 src/components/profile/index.js
+ create mode 100644 src/components/profile/photos.js
+ create mode 100644 src/components/samples.js
+ create mode 100644 src/components/sidebar/index.js
+ create mode 100644 src/components/sidebar/suggested-profile.js
+ create mode 100644 src/components/sidebar/suggestions.js
+ create mode 100644 src/components/sidebar/user.js
+ create mode 100644 src/components/socialmedia.js
+ create mode 100644 src/components/timeline.js
+ create mode 100644 src/components/timelines/header.js
+ create mode 100644 src/components/timelines/index.js
+ create mode 100644 src/components/timelines/photos.js
+ create mode 100644 src/constants/paths.js
+ create mode 100644 src/constants/routes.js
+ create mode 100644 src/context/firebase.js
+ create mode 100644 src/context/logged-in-user.js
+ create mode 100644 src/context/user.js
+ create mode 100644 src/helpers/protected-route.js
+ create mode 100644 src/hooks/use-auth-listener.js
+ create mode 100644 src/hooks/use-photos.js
+ create mode 100644 src/hooks/use-user.js
+ create mode 100644 src/index.css
+ create mode 100644 src/index.js
+ create mode 100644 src/lib/firebase.js
+ create mode 100644 src/logo.svg
+ create mode 100644 src/reportWebVitals.js
+ create mode 100644 src/services/firebase.js
+ create mode 100644 src/setupTests.js
+ create mode 100644 src/styles/app.css
+ create mode 100644 src/styles/tailwind.css
+
+ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
+$ git commit
+On branch master
+nothing to commit, working tree clean
+
+ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
+$ git remote add origin 'https://github.com/lgcyofficial/lgcywebsite.git'
+
+ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
+$ git push -u origin web
+error: src refspec web does not match any
+error: failed to push some refs to 'https://github.com/lgcyofficial/lgcywebsite.git'
+
+ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
+$ git remote add origin "https://github.com/lgcyofficial/lgcywebsite.git"
+error: remote origin already exists.
+
+ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
+$ git push -u origin master
+Enumerating objects: 132, done.
+Counting objects: 100% (132/132), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (127/127), done.
+Writing objects: 100% (132/132), 3.54 MiB | 1.58 MiB/s, done.
+Total 132 (delta 10), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (10/10), done.
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/lgcyofficial/lgcywebsite/pull/new/master
+remote:
+To https://github.com/lgcyofficial/lgcywebsite.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+ASUS@LAPTOP-PT41JRMR MINGW64 ~/Downloads/lgcy (master)
+$

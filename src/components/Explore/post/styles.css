@@ -1,0 +1,19 @@
+.card{
+    background-color: white;
+}
+
+.cardImage {
+    height: 150px;
+    width: 300px;
+}
+
+.bigblue {
+    color: DodgerBlue;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.cardInfo{
+
+}
